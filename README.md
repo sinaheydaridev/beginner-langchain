@@ -1,3 +1,9 @@
+# LangChain Tourial 🦜️
+
+## Description
+
+LangChain typically builds applications using integrations with LLM providers and external sources where data can be found and stored.
+
 ## Installation
 
 Python 3.10 or higher
